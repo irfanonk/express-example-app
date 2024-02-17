@@ -1,0 +1,1 @@
+ALTER TABLE "product" ALTER COLUMN "added" SET DATA TYPE text;

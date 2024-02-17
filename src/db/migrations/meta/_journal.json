@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1708196094198,
+      "tag": "0000_yummy_iceman",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1708197055560,
+      "tag": "0001_natural_kylun",
+      "breakpoints": true
+    }
+  ]
+}
